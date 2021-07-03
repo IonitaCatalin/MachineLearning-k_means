@@ -1,3 +1,3 @@
-# MachineLearning-k_means
+k_means
 
-## Simple k-means algorithm implemented exclusively as an assignement for my Machine Learning course.
+## SImple implementation of the k_means clustering algorithm as an assigment for my Maching Learning College Course
